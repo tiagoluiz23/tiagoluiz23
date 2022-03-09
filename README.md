@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Tiago Luíz Vieira 👋
 
 - 🔭 Hoje trabalho na Cia Itabirana de telecomunicações
-- 🌱 Estudando: HTML5, CSS, JS, Java, C#, MySql, Python.
+- 🌱 Estudando: HTML5, CSS, JS, Java, C#, MySql, Python, Php.
 - 📫 Contate-me no e-mail: tiagoluiz23@gmail.com
 <div align="center">
   <a href="https://github.com/tiagoluiz23">
@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
    
