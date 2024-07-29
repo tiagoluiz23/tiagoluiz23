@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tiago Luíz Vieira 👋
 
-- 🔭 Hoje trabalho na Cia Itabirana de telecomunicações
+- 🔭 Hoje trabalho na Megagiro Distribuidora de Bebidas Heineken
 - 🌱 Estudando: HTML5, CSS, JS, Java, C, MySql, Python, Php, Dart, Flutter.
 - 📫 Contate-me no e-mail: tiagoluiz23@gmail.com
 <div align="center">
